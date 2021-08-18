@@ -3,11 +3,11 @@
 "100" - 42; // 58
 100 + null; // 100
 
-var ageOne = 12;
+var ageOne = "12";
 String(ageOne); // '12'
 ageOne.toString(); // '12'
 
-var ageTwo = '33';
+var ageTwo = 33;
 Number(ageTwo); // 33
 parseInt(ageTwo); // 33
 parseFloat(ageTwo); // 33
